@@ -1,0 +1,2 @@
+SIZE = (WIDTH, HEIGHT) = (700, 450)
+WHITE = (255, 255, 255)
